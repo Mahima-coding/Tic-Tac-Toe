@@ -9,7 +9,7 @@ This project is a simple implementation of the classic game Tic-Tac-Toe using HT
 
 4. **Draw**: If the entire grid is filled without a player achieving three in a row, the game ends in a draw.
 # File Structure:
-**index.html**: Contains the structure of the webpage, including the game grid and necessary elements for gameplay.
+. **index.html**: Contains the structure of the webpage, including the game grid and necessary elements for gameplay.
 
 **style.css**: Defines the visual styles of the game, including grid layout, cell styling, and overall appearance.
 
